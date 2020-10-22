@@ -1,2 +1,2 @@
 # workindia
-<img src="output screenshot/user registration.png" width = 400 height = 400>
+<img src="output screenshot/user registration.png" width = 1000 height = 400>
