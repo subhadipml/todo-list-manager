@@ -29,5 +29,5 @@ def notes(request):
             return render(request, 'app/notes.html')
 #return all the notes
 def details(request):
-    allnotes = models.User.objects.all()
+    allnotes = models.Note.objects.all()
     return render(request, 'app/list.html', {'allnotes': allnotes})
